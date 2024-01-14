@@ -4,9 +4,9 @@ The web application allows users to view recent reviews posted on the Apple App 
 Users can input the app id and time period (options are to show reviews from last 48 hours, 96 hours, or from the last week) of choice.
 The reviews will then populate if there were any from the specified time period. The review data will persist to allow the reviews to be viewed later.
 
-![vidShort](https://github.com/ehalper/Review-Viewer/assets/71235972/fa8d81aa-9fef-4945-b213-2d468ae42da5)
-
 The application uses TypeScript, React, Node, Express, HTML, CSS, and the App Store Connect RSS Feed API.
+
+![vidShort](https://github.com/ehalper/Review-Viewer/assets/71235972/fa8d81aa-9fef-4945-b213-2d468ae42da5)
 
 <img width="1101" alt="Screen Shot 2024-01-14 at 3 55 29 PM" src="https://github.com/ehalper/Review-Viewer/assets/71235972/70147709-8269-4109-8e61-2b15a988f45f">
 
