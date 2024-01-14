@@ -17,6 +17,7 @@ function convertDateToMilis(date: string) {
   return new Date(date.substring(0, 19)).getTime()
 }
 
+//Parses body of review data and returns list of new json Review objects found from time period to be returned in response
 function parseData(body: string, req: any) {
   let today = new Date();
 
