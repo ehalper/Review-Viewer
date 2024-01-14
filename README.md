@@ -12,6 +12,7 @@ The application uses TypeScript, React, Node, Express, HTML, CSS, and the App St
 
 ### How to find an app's ID?
 Search for the app name in the Apple App Store: https://www.apple.com/app-store/
+
 When you are on the app's page in the App Store, the url will be in the following format: https://apps.apple.com/us/app/{appName}/id{appId}
 
 ### Example using Game Pigeon App with id: 1124197642
