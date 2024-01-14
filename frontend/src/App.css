@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(120, 183, 217);
+  margin-left: 25px;
+  margin-right: 25px;
+  font-family: sans-serif;
+}
+
+button {
+  border-radius: 20px;
+  font-size: 25px;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.header-div {
+  text-align: center;
+}
+
+.review {
+  display: flex;
+  flex-direction: column;
+  border: 10px solid rgb(120, 183, 217);
+  padding: 17px;
+  border-radius: 50px;
+  background-color: #d1d1d1;
+}
+
+.review-header {
+  justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  padding: 2px;
+  border-radius: 30px;
+  background-color: #b0d4e8;
+}
